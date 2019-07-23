@@ -1,9 +1,12 @@
 facebook react native workshop - on 19.07.17
 ----------------------------------
 ----------------------------------
-#"bitcoin market condtion viewer"
+
+"bitcoin market condition viewer"
 ----------------------------------
 ----------------------------------
+
+
 before start
 ----------------------------------
 install
